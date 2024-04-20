@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1572530048 source:/home2/oc132898/Desktop/projetsi/chat/chat.cpp
+	<cstdio>
+	<cstdlib>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<math.h>
+
+1573293258 source:/home2/oc132898/L2/brouillon/projetsi/chat/chat.cpp
+	<cstdio>
+	<cstdlib>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<math.h>
+
+1573293258 source:/home2/oc132898/L2/brouillon/projetsi/projetcodeblocks/chat.cpp
+	<cstdio>
+	<cstdlib>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<GL/freeglut.h>
+	<jpeglib.h>
+	<jerror.h>
+	<math.h>
+
